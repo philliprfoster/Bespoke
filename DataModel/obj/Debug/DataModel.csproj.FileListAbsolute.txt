@@ -1,0 +1,11 @@
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\bin\Debug\DataModel.dll
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\bin\Debug\DataModel.pdb
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\obj\Debug\DataModel.dll
+C:\Users\Phillip\source\repos\BeSpoke\DataModel\obj\Debug\DataModel.pdb
